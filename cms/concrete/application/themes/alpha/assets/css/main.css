@@ -2807,7 +2807,7 @@
 		position: fixed;
 		top: 0;
 		width: 100%;
-		z-index: 10000;
+		z-index: 4000;
 	}
 
 		#header h1 {
@@ -3389,7 +3389,7 @@
 				position: fixed;
 				top: 0;
 				width: 100%;
-				z-index: 10001;
+				z-index: 4001;
 			}
 
 				#navButton .toggle {
@@ -3448,7 +3448,7 @@
 				position: fixed;
 				top: 0;
 				width: 275px;
-				z-index: 10002;
+				z-index: 4002;
 				background: #2b2b2b;
 				color: #bbb;
 			}
